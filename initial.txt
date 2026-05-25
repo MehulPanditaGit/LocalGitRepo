@@ -4,3 +4,4 @@ Adding a new line from GitHub web.
 
 Line 2 in initial.txt
 
+Line 2: Hello
